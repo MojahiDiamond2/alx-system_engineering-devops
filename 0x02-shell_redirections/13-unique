@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "list" >> 13-unique | sort | uniq -u
+echo "13-unique" >> list | sort | uniq -u
